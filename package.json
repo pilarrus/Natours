@@ -1,0 +1,14 @@
+{
+  "name": "Natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pilarrus/Natours.git",
+  "author": "pilar <pilar.rus.izquierdo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "compile:sass": "node-sass --watch sass/main.scss css/style.css"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
